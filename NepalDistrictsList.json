@@ -1,0 +1,618 @@
+[
+  {
+    "district_id": "1",
+    "district_code": "TPL",
+    "district_name_en": "Taplejung",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "ताप्लेजुङ"
+  },
+  {
+    "district_id": "2",
+    "district_code": "PNC",
+    "district_name_en": "Panchthar",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "पाँचथर"
+  },
+  {
+    "district_id": "3",
+    "district_code": "ILM",
+    "district_name_en": "Ilam",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "ईलाम "
+  },
+  {
+    "district_id": "4",
+    "district_code": "JHP",
+    "district_name_en": "Jhapa",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "झापा"
+  },
+  {
+    "district_id": "5",
+    "district_code": "MRG",
+    "district_name_en": "Morang",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "मोरङ"
+  },
+  {
+    "district_id": "6",
+    "district_code": "SNS",
+    "district_name_en": "Sunasari",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "सुनसरी"
+  },
+  {
+    "district_id": "7",
+    "district_code": "DNK",
+    "district_name_en": "Dhankuta",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "धनकुटा "
+  },
+  {
+    "district_id": "8",
+    "district_code": "TRH",
+    "district_name_en": "Terhathum",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "तेर्‍हथुम"
+  },
+  {
+    "district_id": "9",
+    "district_code": "SKS",
+    "district_name_en": "Sankhuwasabha",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "सङ्खुवासभा "
+  },
+  {
+    "district_id": "10",
+    "district_code": "BJP",
+    "district_name_en": "Bhojpur",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "भोजपुर "
+  },
+  {
+    "district_id": "11",
+    "district_code": "SLK",
+    "district_name_en": "Solukhumbu",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "सोलुखुम्बु"
+  },
+  {
+    "district_id": "12",
+    "district_code": "OKH",
+    "district_name_en": "Okhaldhunga",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "ओखलढुङ्गा"
+  },
+  {
+    "district_id": "13",
+    "district_code": "KHT",
+    "district_name_en": "Khotang",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "खोटाङ"
+  },
+  {
+    "district_id": "14",
+    "district_code": "UDP",
+    "district_name_en": "Udayapur",
+    "province_id": "1",
+    "is_active": "Y",
+    "district_name_np": "उदयपुर"
+  },
+  {
+    "district_id": "15",
+    "district_code": "SPT",
+    "district_name_en": "Saptari",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "सप्तरी "
+  },
+  {
+    "district_id": "16",
+    "district_code": "SRH",
+    "district_name_en": "Siraha",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "सिरहा"
+  },
+  {
+    "district_id": "17",
+    "district_code": "DHS",
+    "district_name_en": "Dhanusha",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "धनुषा"
+  },
+  {
+    "district_id": "18",
+    "district_code": "MHT",
+    "district_name_en": "Mahottari",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "महोत्तरी "
+  },
+  {
+    "district_id": "19",
+    "district_code": "SRL",
+    "district_name_en": "Sarlahi",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "सर्लाही "
+  },
+  {
+    "district_id": "20",
+    "district_code": "RTH",
+    "district_name_en": "Rautahat",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "रौतहट"
+  },
+  {
+    "district_id": "21",
+    "district_code": "BRA",
+    "district_name_en": "Bara",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "बारा"
+  },
+  {
+    "district_id": "22",
+    "district_code": "PRS",
+    "district_name_en": "Parsa",
+    "province_id": "2",
+    "is_active": "Y",
+    "district_name_np": "पर्सा "
+  },
+  {
+    "district_id": "23",
+    "district_code": "SDL",
+    "district_name_en": "Sindhuli",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "सिन्धुली"
+  },
+  {
+    "district_id": "24",
+    "district_code": "RMC",
+    "district_name_en": "Ramechhap",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "रामेछाप "
+  },
+  {
+    "district_id": "25",
+    "district_code": "DLK",
+    "district_name_en": "Dolakha",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "दोलखा"
+  },
+  {
+    "district_id": "26",
+    "district_code": "SPC",
+    "district_name_en": "Sindhupalchowk",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "सिन्धुपाल्चोक"
+  },
+  {
+    "district_id": "27",
+    "district_code": "KVP",
+    "district_name_en": "Kavrepalanchowk",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "काभ्रेपलान्चोक"
+  },
+  {
+    "district_id": "28",
+    "district_code": "LTP",
+    "district_name_en": "Lalitpur",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "ललितपुर "
+  },
+  {
+    "district_id": "29",
+    "district_code": "BKP",
+    "district_name_en": "Bhaktapur",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "भक्तपुर "
+  },
+  {
+    "district_id": "30",
+    "district_code": "KTM",
+    "district_name_en": "Kathmandu",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "काठमाडौं "
+  },
+  {
+    "district_id": "31",
+    "district_code": "NWK",
+    "district_name_en": "Nuwakot",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "नुवाकोट "
+  },
+  {
+    "district_id": "32",
+    "district_code": "RSW",
+    "district_name_en": "Rasuwa",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "रसुवा "
+  },
+  {
+    "district_id": "33",
+    "district_code": "DHD",
+    "district_name_en": "Dhading",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "धादिङ "
+  },
+  {
+    "district_id": "34",
+    "district_code": "MKP",
+    "district_name_en": "Makwanpur",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "मकवानपुर "
+  },
+  {
+    "district_id": "35",
+    "district_code": "CTW",
+    "district_name_en": "Chitwan",
+    "province_id": "3",
+    "is_active": "Y",
+    "district_name_np": "चितवन"
+  },
+  {
+    "district_id": "36",
+    "district_code": "GRK",
+    "district_name_en": "Gorkha",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "गोर्खा"
+  },
+  {
+    "district_id": "37",
+    "district_code": "LMJ",
+    "district_name_en": "Lamjung",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "लम्जुङ"
+  },
+  {
+    "district_id": "38",
+    "district_code": "TNH",
+    "district_name_en": "Tanahun",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "तनहुँ"
+  },
+  {
+    "district_id": "39",
+    "district_code": "SYJ",
+    "district_name_en": "Syangja",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "स्याङ्जा"
+  },
+  {
+    "district_id": "40",
+    "district_code": "KSK",
+    "district_name_en": "Kaski",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "कास्की "
+  },
+  {
+    "district_id": "41",
+    "district_code": "MNG",
+    "district_name_en": "Manang",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "मनाङ"
+  },
+  {
+    "district_id": "42",
+    "district_code": "MST",
+    "district_name_en": "Mustang",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "मुस्ताङ"
+  },
+  {
+    "district_id": "43",
+    "district_code": "MYG",
+    "district_name_en": "Myagdi",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "म्याग्दी"
+  },
+  {
+    "district_id": "44",
+    "district_code": "PRB",
+    "district_name_en": "Parbat",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "पर्वत"
+  },
+  {
+    "district_id": "45",
+    "district_code": "BGL",
+    "district_name_en": "Baglung",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "बाग्लुङ "
+  },
+  {
+    "district_id": "46",
+    "district_code": "NPE",
+    "district_name_en": "Nawalparasi East",
+    "province_id": "4",
+    "is_active": "Y",
+    "district_name_np": "पूर्व नवलपरासी"
+  },
+  {
+    "district_id": "47",
+    "district_code": "GLM",
+    "district_name_en": "Gulmi",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "गुल्मी"
+  },
+  {
+    "district_id": "48",
+    "district_code": "PLP",
+    "district_name_en": "Palpa",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "पाल्पा"
+  },
+  {
+    "district_id": "49",
+    "district_code": "RPD",
+    "district_name_en": "Rupandehi",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "रुपन्देही"
+  },
+  {
+    "district_id": "50",
+    "district_code": "KPB",
+    "district_name_en": "Kapilbastu",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "कपिलवस्तु "
+  },
+  {
+    "district_id": "51",
+    "district_code": "AGK",
+    "district_name_en": "Arghakhanchi",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "अर्घाखाँची "
+  },
+  {
+    "district_id": "52",
+    "district_code": "PYT",
+    "district_name_en": "Pyuthan",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "प्युठान "
+  },
+  {
+    "district_id": "53",
+    "district_code": "RLP",
+    "district_name_en": "Rolpa",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "रोल्पा"
+  },
+  {
+    "district_id": "54",
+    "district_code": "RKE",
+    "district_name_en": "Rukum East",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "पूर्व रुकुम"
+  },
+  {
+    "district_id": "55",
+    "district_code": "DNG",
+    "district_name_en": "Dang",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "दाङ"
+  },
+  {
+    "district_id": "56",
+    "district_code": "BNK",
+    "district_name_en": "Banke",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "बाँके"
+  },
+  {
+    "district_id": "57",
+    "district_code": "BRD",
+    "district_name_en": "Bardiya",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "बर्दिया"
+  },
+  {
+    "district_id": "58",
+    "district_code": "SLY",
+    "district_name_en": "Salyan",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "सल्यान"
+  },
+  {
+    "district_id": "59",
+    "district_code": "SRK",
+    "district_name_en": "Surkhet",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "सुर्खेत "
+  },
+  {
+    "district_id": "60",
+    "district_code": "DLH",
+    "district_name_en": "Dailekh",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "दैलेख"
+  },
+  {
+    "district_id": "61",
+    "district_code": "JJK",
+    "district_name_en": "Jajarkot",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "जाजरकोट "
+  },
+  {
+    "district_id": "62",
+    "district_code": "DLP",
+    "district_name_en": "Dolpa",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "डोल्पा"
+  },
+  {
+    "district_id": "63",
+    "district_code": "JML",
+    "district_name_en": "Jumla",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "जुम्ला"
+  },
+  {
+    "district_id": "64",
+    "district_code": "KLT",
+    "district_name_en": "Kalikot",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "कालिकोट"
+  },
+  {
+    "district_id": "65",
+    "district_code": "MGU",
+    "district_name_en": "Mugu",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "मुगु"
+  },
+  {
+    "district_id": "66",
+    "district_code": "HML",
+    "district_name_en": "Humla",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "हुम्ला "
+  },
+  {
+    "district_id": "67",
+    "district_code": "BJR",
+    "district_name_en": "Bajura",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "बाजुरा"
+  },
+  {
+    "district_id": "68",
+    "district_code": "BJH",
+    "district_name_en": "Bajhang",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "बझाङ "
+  },
+  {
+    "district_id": "69",
+    "district_code": "ACH",
+    "district_name_en": "Achham",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "अछाम"
+  },
+  {
+    "district_id": "70",
+    "district_code": "DTI",
+    "district_name_en": "Doti",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "डोटी"
+  },
+  {
+    "district_id": "71",
+    "district_code": "KLL",
+    "district_name_en": "Kailali",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "कैलाली"
+  },
+  {
+    "district_id": "72",
+    "district_code": "KCP",
+    "district_name_en": "Kanchanpur",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "कन्चनपुर"
+  },
+  {
+    "district_id": "73",
+    "district_code": "DDL",
+    "district_name_en": "Dadeldhura",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "डडेलधुरा"
+  },
+  {
+    "district_id": "74",
+    "district_code": "BTD",
+    "district_name_en": "Baitadi",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "बैतडी"
+  },
+  {
+    "district_id": "75",
+    "district_code": "DCH",
+    "district_name_en": "Darchula",
+    "province_id": "7",
+    "is_active": "Y",
+    "district_name_np": "दार्चुला"
+  },
+  {
+    "district_id": "76",
+    "district_code": "NPW",
+    "district_name_en": "Nawalparasi West",
+    "province_id": "5",
+    "is_active": "Y",
+    "district_name_np": "पश्चिम नवलपरासी"
+  },
+  {
+    "district_id": "77",
+    "district_code": "RKW",
+    "district_name_en": "Rukum West",
+    "province_id": "6",
+    "is_active": "Y",
+    "district_name_np": "पश्चिम रुकुम"
+  }
+]
