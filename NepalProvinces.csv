@@ -1,0 +1,8 @@
+﻿province_id,province_name_en,is_active,country_id,province_name_np,capital_name_en,capital_name_np
+1,KOSHI,Y,144,कोशी,Biratnagar,विराटनगर
+2,MADHESH,Y,144,मधेश,Janakpur,जनकपुर
+3,BAGMATI,Y,144,बागमती,Hetauda,हेटौंडा
+4,GANDAKI,Y,144,गण्डकी,Pokhara,पोखरा
+5,LUMBINI,Y,144,लुम्बिनी,Deukhuri,देउखुरी
+6,KARNALI,Y,144,कर्णाली,"Birendranagar, Surkhet","वीरेन्द्रनगर, सुर्खेत"
+7,SUDURPASHCHIM,Y,144,सुदुरपश्चिम,"Godawari, Dhangadi","गोदावरी, धनगढी"
